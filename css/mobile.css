@@ -1,0 +1,15 @@
+/*
+ * CSS for any elements having different behaviors on different screen size
+ */
+
+div.contactListDisable {
+    left: -100%;
+}
+
+div.contactContent {
+    text-align: center;
+}
+
+dd {
+    padding-left: 0;
+}
